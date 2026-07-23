@@ -52,7 +52,10 @@ Explore my original music across multiple streaming platforms. Each track repres
 
 ## Samba Do Avião
 
-{% include responsive-video.html id="_ZbcywLttlA" title="Samba Do Avião" %}
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_ZbcywLttlA" title="Samba Do Avião" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 **Watch on:** [YouTube](https://youtu.be/_ZbcywLttlA)
 

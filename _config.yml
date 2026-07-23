@@ -7,8 +7,12 @@ baseurl: ""
 repository: ladakovler/ladakovler.com
 
 # Theme
+<<<<<<< HEAD
 theme: remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark"
+=======
+remote_theme: "mmistakes/minimal-mistakes"
+>>>>>>> a2fe255 (Use remote_theme for Minimal Mistakes; fix includes/pages)
+minimal_mistakes_skin: "black"
 
 # Locale and timezone
 locale: "en-US"
@@ -36,7 +40,7 @@ author:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@lada_kovler"
 
-# Brand colors for dark theme
+# Brand colors for black theme
 primary_bg: "#000000"
 primary_text: "#FFFFFF"
 primary_color: "#e74c3c"
