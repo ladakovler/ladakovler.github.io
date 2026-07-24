@@ -7,9 +7,9 @@ baseurl: ""
 repository: ladakovler/ladakovler.com
 
 # Theme
-HEAD
-remote_theme: "mmistakes/minimal-mistakes" a2fe255 (Use remote_theme for Minimal Mistakes; fix includes/pages)
-minimal_mistakes_skin: "black" 07185c0 (WIP: save local edits before syncing)
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+
 
 # Locale and timezone
 locale: "en-US"
