@@ -5,7 +5,7 @@ permalink: /gallery/
 author_profile: false
 excerpt: "Photos from performances, events, and behind-the-scenes moments"
 header:
-  overlay_image: /assets/images/gallery-header.jpg
+  overlay_image: /assets/images/gallery/gallery-header.jpg
   overlay_filter: rgba(0, 0, 0, 0.6)
   caption: "Photo Gallery"
 ---
