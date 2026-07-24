@@ -6,7 +6,7 @@ permalink: /bio/
 
 <div class="bio-grid">
   <div class="bio-photo">
-    ![Lada Kovler — portrait](/assets/images/avatar.jpg)
+    <img src="/assets/images/avatar.png" alt="Lada Kovler portrait" style="width:220px;max-width:35%;border-radius:8px;object-fit:cover">
   </div>
   <div class="bio-text">
 
