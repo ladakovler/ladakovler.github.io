@@ -7,9 +7,8 @@ baseurl: ""
 repository: ladakovler/ladakovler.com
 
 # Theme
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default"
-
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "black"
 
 # Locale and timezone
 locale: "en-US"
