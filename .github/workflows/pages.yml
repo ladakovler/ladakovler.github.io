@@ -8,13 +8,6 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
-text
-
-Collapse
-
-
- Copy
-
 steps:
   - name: Checkout
     uses: actions/checkout@v4
