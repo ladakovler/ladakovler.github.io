@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* Custom CSS for Lada Kovler - fallback */
+/* Basic dark-theme overrides only — no external theme imports */
+body { background-color: #000 !important; color: #fff !important; }
+
+/* Simple link and heading styles */
+a { color: #3498db; }
+
+h1, h2, h3, h4, h5, h6 { color: #fff; }
