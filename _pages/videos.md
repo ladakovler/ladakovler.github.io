@@ -1,26 +1,12 @@
-layout: page title: "Videos" permalink: /videos/
-Videos
-
-
-
-
-
-
 ---
 layout: single
 title: "Videos"
 permalink: /videos/
 author_profile: false
 excerpt: "Watch performances, tutorials, and creative content"
-header:
-  overlay_image: /assets/images/videos-header.jpg
-  overlay_filter: rgba(0, 0, 0, 0.6)
-  caption: "Video Gallery"
 ---
 
 ## Video Gallery
-
-Watch my performances, tutorials, and creative content.
 
 ---
 
@@ -63,5 +49,3 @@ Watch my performances, tutorials, and creative content.
 ## Subscribe
 
 Subscribe to my [YouTube channel](https://www.youtube.com/@lada_kovler) for new content and updates.
-
-*Last updated: July 16, 2024*
