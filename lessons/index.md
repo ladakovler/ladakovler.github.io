@@ -12,24 +12,15 @@ header:
 
 # Lessons With Lada
 
-## Voice & Piano Private Classes in Miami Beach 🎶
+## Voice & Piano Private Classes in Miami Beach
 
 Are you looking for inspiring voice or piano lessons for yourself or your child? Whether you're a beginner, intermediate, or advanced musician, I'm here to guide you on your musical journey!
 
 With years of experience in singing, playing, performing, and producing music, I'm passionate about helping students of all ages and skill levels develop their musical talents.
 
-🎹 **Piano Lessons:** Master the keys, learn technique, and explore a variety of styles—from classical to jazz and contemporary.
-
-🎤 **Voice Lessons:** Unlock your true vocal potential with tailored techniques to improve pitch, tone, and confidence. Write your own songs!
-
-📍 **Location:** Miami Beach
-📅 **Flexible Scheduling**
-
-Let's make music together! Contact me today to schedule your first class.
-
 ---
 
-<div class="lessons-grid">
+<div class="lessons-grid" markdown="1">
 
 ### Vocal Lessons
 
@@ -59,8 +50,12 @@ Rather it is a cover song or your original piece, let's record it together in my
 
 ---
 
+📍 **Location:** Miami Beach
+
+---
+
 ## Schedule Your First Class
 
-Reach out to Lada to learn more about music lessons and schedule.
+Reach out to Lada to learn more about music lessons and scheduling.
 
 **[Contact me](/contact/)**
