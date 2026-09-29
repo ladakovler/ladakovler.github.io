@@ -1,24 +1,33 @@
 ---
 layout: single
-title: "Music Lessons & Coaching"
+title: "Lessons With Lada"
 permalink: /lessons/
 author_profile: false
-toc: true
-toc_label: "Lessons"
-excerpt: "Professional music instruction tailored to your goals"
+excerpt: "Voice & Piano Private Classes in Miami Beach"
 header:
   overlay_image: /assets/images/lessons-header.jpg
   overlay_filter: rgba(0, 0, 0, 0.6)
-  caption: "Music Education"
+  caption: "Lessons With Lada"
 ---
 
-## Music Lessons & Coaching
+# Lessons With Lada
 
-I offer personalized music instruction tailored to individual goals and learning styles. Whether you're a beginner or an advanced musician, my lessons create a supportive environment for growth and musical exploration.
+## Voice & Piano Private Classes in Miami Beach 🎶
+
+Are you looking for inspiring voice or piano lessons for yourself or your child? Whether you're a beginner, intermediate, or advanced musician, I'm here to guide you on your musical journey!
+
+With years of experience in singing, playing, performing, and producing music, I'm passionate about helping students of all ages and skill levels develop their musical talents.
+
+🎹 **Piano Lessons:** Master the keys, learn technique, and explore a variety of styles—from classical to jazz and contemporary.
+
+🎤 **Voice Lessons:** Unlock your true vocal potential with tailored techniques to improve pitch, tone, and confidence. Write your own songs!
+
+📍 **Location:** Miami Beach
+📅 **Flexible Scheduling**
+
+Let's make music together! Contact me today to schedule your first class.
 
 ---
-
-## Lesson Offerings
 
 <div class="lessons-grid">
 
@@ -26,69 +35,32 @@ I offer personalized music instruction tailored to individual goals and learning
 
 ![Vocal Lessons](/assets/images/lessons-01.jpg)
 
-Professional vocal instruction covering technique, breath control, performance, and interpretation. Perfect for singers of all levels.
+Unlock your true vocal potential with tailored techniques to improve pitch, tone, and confidence. Write your own songs!
 
 ### Piano Lessons
 
 ![Piano Lessons](/assets/images/lessons-02.jpg)
 
-Classical and contemporary piano instruction. Learn technique, music theory, and repertoire.
+Master the keys, learn technique, and explore a variety of styles—from classical to jazz and contemporary.
 
 ### Music Theory
 
 ![Music Theory](/assets/images/lessons-03.jpg)
 
-Comprehensive music theory training from fundamentals to advanced concepts. Essential for musicians at any level.
+Learn about how music is built, from ABC to complex jazz scales, rhythms, and forms.
 
-### Coaching & Performance
+### Record
 
-![Performance Coaching](/assets/images/lessons-04.jpg)
+![Record](/assets/images/lessons-04.jpg)
 
-Audition prep, performance coaching, and artistic development to help you reach your musical goals.
+Rather it is a cover song or your original piece, let's record it together in my studio.
 
 </div>
 
 ---
 
-## Lesson Details
+## Schedule Your First Class
 
-**Format:** In-person (Miami Beach area) or Online (Zoom)  
-**Duration:** 30, 45, or 60 minutes  
-**Level:** Beginner to Advanced  
-**Age:** All ages welcome
+Reach out to Lada to learn more about music lessons and schedule.
 
-### Rates
-
-Contact me for current pricing and package options.
-
----
-
-## What to Expect
-
-Each lesson is customized to your:
-- Current skill level
-- Musical interests and goals
-- Learning pace and style
-- Preferred repertoire and genres
-
-I focus on building a strong foundation while keeping lessons engaging and enjoyable.
-
----
-
-## Schedule & Availability
-
-I offer flexible scheduling with evening and weekend availability. Sessions can be adapted for your schedule.
-
-**[Contact me to schedule](/contact/)** your first lesson or consultation.
-
----
-
-## Get Started
-
-Ready to begin? [Reach out today](/contact/) to discuss your musical goals and arrange your first lesson.
-
-📧 **Email:** kovler20@gmail.com  
-📱 **Phone:** 646-884-0064  
-📍 **Location:** Miami Beach, FL
-
-*Last updated: July 16, 2024*
+**[Contact me](/contact/)**
